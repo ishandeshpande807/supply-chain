@@ -22,3 +22,13 @@ This project involves analyzing supply chain data to identify key metrics, optim
 - **SQL**: Data querying and advanced analysis.
 - **Tableau**: Data visualization and dashboard creation.
 - **Power BI**: Interactive reports and dashboards.
+
+
+### Key Findings
+
+- We were able to improve forecasting and efficiency of the products as per customer needs
+- We were able to gauge the inventory status as per the dataset provided which helped in the demand and supply of the products in quick time
+- Interpreting the data helped in making better and faster decisions to satisfy customer requirements in real time
+- The dataset gave information about the customer interest on the products which in return gave the estimates and led to proper planning and distribution of the products
+- With the help of this analytics, we may gain insight into the perception of their existing and potential consumers about their product offerings
+  
